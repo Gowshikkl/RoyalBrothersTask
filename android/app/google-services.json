@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129640260697",
+    "project_id": "royalbrotherstask",
+    "storage_bucket": "royalbrotherstask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129640260697:android:67d45eb90274cc3472fd48",
+        "android_client_info": {
+          "package_name": "com.royalbrotherstask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmzjeT5IyMJDUlxf0CbaLmqqRJi9et7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
